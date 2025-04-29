@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOS</string>
+
+    <string name="burn">A. Cool the burn: Hold the burned area under cool (not cold) running water or apply a cool, wet compress until the pain eases. Do not use ice. Putting ice directly on a burn can cause further damage to the tissue.\nB. Apply lotion: Once a burn is completely cooled, apply a lotion such as one that contains aloe vera or a moisturizer. This helps prevent drying and provides relief.\nC. Bandage the burn: Cover the burn with a sterile gauze bandage (not fluffy cotton). Wrap it loosely to avoid putting pressure on burned skin. Bandaging keeps air off the area, reduces pain, and protects blistered skin.\nD. Take a pain reliever: Over-the-counter medications such as ibuprofen (Advil, Motrin IB, others), naproxen sodium (Aleve), or acetaminophen (Tylenol, others) can help relieve pain.</string>
+
+    <string name="bone">First Aid\n\nA. Keep the person still. Do not move them unless there is an immediate danger, especially if you suspect fracture of the skull, spine, ribs, pelvis or upper leg.\nB. Attend to any bleeding wounds first. Stop the bleeding by pressing firmly on the site with a clean dressing. If a bone is protruding, apply pressure around the edges of the wound.\nC. For a limb fracture, provide support and comfort such as a pillow under the lower leg or forearm. However, do not cause further pain or unnecessary movement of the broken bone.\nD. Apply a splint to support the limb. Splints do not have to be professionally manufactured. Items like wooden boards and folded magazines can work for some fractures. You should immobilize the limb above and below the fracture.\nE. Stop the person from eating or drinking anything until they are seen by a healthcare professional in case they need surgery.</string>
+
+    <string name="bleed">First Aid\n\nA. Lie the person down. If a limb is injured, raise the injured area above the level of the person.\nB. Get the person to apply direct pressure to the wound with their hand or hands to stem the blood flow. If the person can’t do it, apply direct pressure yourself.\nC. If an object is embedded in the wound, do not remove it. Apply pressure around the object.\nD. If blood saturates the initial dressing, do not remove it. Add fresh padding over the top and secure with a bandage.</string>
+
+    <string name="add">1. Add emergency contact name\n2. Add emergency contact number\n3. Save contact to list\n4. Add emergency contact from contact list</string>
+
+    <string name="message">1. Message appear here\n2. Enter your message\n3. Save message\n4. Delete message\nContact list</string>
+
+    <string name="contact">1. Long press to delete contact</string>
+    <string name="help">1. Click call to automatically call the number</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_directmap">directmap</string>
+    <string name="i_am_in_danger_i_need_help_please_urgently_reach_me_out_here_are_my_coordinates">I am in DANGER, I need help. Please urgently reach me out.</string>
+    <string name="about_app">Welcome to our SOS application! This user manual will guide you through the functionalities of our app so that you can utilize it effectively during emergencies.</string>
+    <string name="emergency_guides">Emergency Guides</string>
+    <string name="_1_burn">1. Burn</string>
+    <string name="_2_bone_fracture">2. Bone Fracture</string>
+    <string name="textview">TextView</string>
+    <string name="emergency_helpline">Emergency Helpline</string>
+    <string name="ambulance_108">Ambulance: 108</string>
+    <string name="call">Call</string>
+    <string name="gas_leak_1906">Gas leak: 1906</string>
+    <string name="disaster_managment_104">Disaster Management: 104</string>
+    <string name="police_100">Police: 100</string>
+    <string name="fire_managment_104">Fire Management: 104</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="add_emergency_contact">Add emergency contact</string>
+    <string name="add_contacts_from_contact_book">Add Contacts from contact book</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="first_aid_guide">First Aid Guide</string>
+    <string name="register_contact">Register Contact</string>
+    <string name="contact_list">Contact List</string>
+    <string name="helpline">Helpline</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="instruction">Instruction</string>
+    <string name="sos_guides">SOS Guides</string>
+    <string name="emergency_mode">Emergency Mode</string>
+    <string name="_3_severe_external_bleeding">3. Severe External Bleeding</string>
+    <string name="save">Save</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="select_languge">Select Language</string>
+    <string name="login">login</string>
+    <string name="loginbtn">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>

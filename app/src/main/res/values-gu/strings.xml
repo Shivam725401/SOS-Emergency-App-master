@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">એસઓએસ</string>
+
+    <string name="burn">એ. બર્ન ઠંડુ કરો: બળી ગયેલા વિસ્તારને ઠંડા (થંડા નહીં) પાણી હેઠળ રાખો અથવા ઠંડો, ભીનો કપડો મૂકો જ્યાં સુધી દુખાવા ઓસરતો ન થાય. બરફ વાપરો નહીં. બરફ સીધો લગાડવાથી વધુ નુકસાન થઈ શકે છે.\nબી. લોશન લગાવો: બર્ન ઠંડુ થયા પછી એલોઓ વેરા કે મોઇસ્ચરાઇઝર જેવી લોશન લગાવો. આ ત્વચાને સુકાઈ જવાથી બચાવે છે અને રાહત આપે છે.\nસી. બર્ન પર પટ્ટી બાંધો: સ્ટેરાઇલ ગોઝ પેડ વડે હળવી રીતે પટ્ટી બાંધો. હળવી રીતે બાંધો જેથી દબાણ ન પડે. આ દુખાવામાં રાહત આપે છે અને ત્વચાને સુરક્ષિત રાખે છે.\nડી. દુખાવા માટે દવા લો: ઈબુપ્રોફેન, નેપ્રોક્સન કે એસિટામિનોફેન જેવી દવાઓથી દુખાવામાં રાહત મળે છે.</string>
+
+    <string name="bone">પ્રથમ સહાય\nએ. વ્યક્તિને સ્થિર રાખો. જો કાપાળ, પીઠ, છાતી, પેલ્વિસ કે પગમાં ફ્રેકચર હોય તો નહીં હલાવો.\nબી. bleeding અટકાવવી: તુરંત સફાઈવાળી કપડાથી દબાવો. હાડકું બહાર હોય તો આસપાસ દબાવો.\nસી. હાથ કે પગમાં ફ્રેકચર હોય તો નીચે તાકી પિલો મૂકો. વધુ દુખાવા ન થાય એ રીતે સહારો આપો.\nડી. સપોર્ટ માટે સ્પ્લિન્ટ લગાવો. ઘરગથ્થું વસ્તુઓથી પણ કરી શકાય છે જેમ કે લાકડાનું પટ્ટું અથવા મેગેઝિન. હાડકાંના ઉપર અને નીચે બંને બાજુ સપોર્ટ આપો.\nઈ. વ્યક્તિએ કંઈ ખાવું કે પીવું નહીં જ્યાં સુધી ડોક્ટર ન જોયે.</string>
+
+    <string name="bleed">પ્રથમ સહાય\nએ. વ્યક્તિને લાઇટાવ. જો અંગ ઘાયલ હોય તો એને ઉપર ઉઠાવો.\nબી. ઘા પર સીધું દબાણ આપો. જો નહિ કરી શકે તો તમે કરો.\nસી. જો ઘામાં વસ્તુ હોય તો કાઢશો નહીં. આસપાસ દબાણ આપો.\nડી. જો પહેલી પટ્ટી ભીંજાઈ ગઈ હોય તો કાઢશો નહીં. તેના ઉપર નવી પટ્ટી લગાવો.</string>
+
+    <string name="add">૧. ઈમર્જન્સી સંપર્કનું નામ ઉમેરો\n૨. ઈમર્જન્સી સંપર્કનો નંબર ઉમેરો\n૩. સંપર્ક યાદીમાં સાચવો\n૪. કોન્ટેક્ટ લિસ્ટમાંથી સંપર્ક ઉમેરો</string>
+
+    <string name="message">૧. સંદેશ અહીં દેખાશે\n૨. તમારું સંદેશ લખો\n૩. સંદેશ સાચવો\n૪. સંદેશ ડિલીટ કરો\nકોન્ટેક્ટ યાદી</string>
+
+    <string name="contact">૧. સંપર્ક ડિલીટ કરવા માટે લાંબો ક્લિક કરો</string>
+    <string name="help">૧. નંબર પર કોલ કરવા માટે \'કોલ\' બટન દબાવો</string>
+    <string name="title_activity_maps">મેપ્સ એક્ટિવિટી</string>
+    <string name="title_activity_directmap">ડાયરેક્ટ મેપ</string>
+    <string name="i_am_in_danger_i_need_help_please_urgently_reach_me_out_here_are_my_coordinates">હું ખતરા માં છું, કૃપા કરીને તરત મારી સહાય કરો.</string>
+    <string name="about_app">અમારા એસઓએસ એપ્લિકેશનમાં આપનું સ્વાગત છે! આ ઉપયોગ માર્ગદર્શિકા તમને ફીચર્સ વિશે સમજાવશે જેથી તમે એ જટિલ સ્થિતિમાં ઉપયોગ કરી શકો.</string>
+    <string name="emergency_guides">ઇમર્જન્સી માર્ગદર્શિકા</string>
+    <string name="_1_burn">૧. બર્ન</string>
+    <string name="_2_bone_fracture">૨. હાડકાં તૂટવું</string>
+    <string name="textview">ટેક્સ્ટવિઉ</string>
+    <string name="emergency_helpline">ઇમર્જન્સી હેલ્પલાઇન</string>
+    <string name="ambulance_108">એંબ્યુલન્સ: ૧૦૮</string>
+    <string name="call">કોલ કરો</string>
+    <string name="gas_leak_1906">ગેસ લીક: ૧૯૦૬</string>
+    <string name="disaster_managment_104">આફત વ્યવસ્થાપન: ૧૦૪</string>
+    <string name="police_100">પોલીસ: ૧૦૦</string>
+    <string name="fire_managment_104">ફાયર મેનેજમેન્ટ: ૧૦૪</string>
+    <string name="name">નામ</string>
+    <string name="number">નમ્બર</string>
+    <string name="add_emergency_contact">ઇમર્જન્સી સંપર્ક ઉમેરો</string>
+    <string name="add_contacts_from_contact_book">કોન્ટેક્ટ બુકમાંથી સંપર્ક ઉમેરો</string>
+    <string name="start">પ્રારંભ કરો</string>
+    <string name="stop">બંધ કરો</string>
+    <string name="first_aid_guide">પ્રથમ સહાય માર્ગદર્શિકા</string>
+    <string name="register_contact">સંપર્ક નોંધાવો</string>
+    <string name="contact_list">સંપર્ક યાદી</string>
+    <string name="helpline">હેલ્પલાઇન</string>
+    <string name="edit_message">સંદેશ સંપાદિત કરો</string>
+    <string name="instruction">સૂચના</string>
+    <string name="sos_guides">એસઓએસ માર્ગદર્શિકા</string>
+    <string name="emergency_mode">ઇમર્જન્સી સ્થિતિ</string>
+    <string name="_3_severe_external_bleeding">૩. ગંભીર બહારના બ્લીડિંગ</string>
+    <string name="save">સાચવો</string>
+    <string name="english">અંગ્રેજી</string>
+    <string name="hindi">હિન્દી</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="select_languge">ભાષા પસંદ કરો</string>
+</resources>

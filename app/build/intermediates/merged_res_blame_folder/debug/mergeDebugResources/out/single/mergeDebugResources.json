@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_button.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_edit_message.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_edit_message.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_soscall.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_soscall.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_maps.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/maps.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_book.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/book.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_contact_recycler_view.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/contact_recycler_view.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_ellipse4.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/ellipse4.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_add_contact.jpg.flat",
+        "source": "com.example.sos.app-main-34:/drawable/add_contact.jpg"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_contactt.jpg.flat",
+        "source": "com.example.sos.app-main-34:/drawable/contactt.jpg"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_delete_icon.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/delete_icon.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_instructions.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_instructions.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_edit_icon.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/edit_icon.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_image_background.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/image_background.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_home.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_androidlarge1.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/androidlarge1.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_edit_message.jpg.flat",
+        "source": "com.example.sos.app-main-34:/drawable/edit_message.jpg"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sos.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_guide.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_guide.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_sos.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/sos.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_img.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_show_contact.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_show_contact.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_call.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/call.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_service_btn_bg.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/service_btn_bg.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_eye_icon.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/eye_icon.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_textbackground.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/textbackground.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_ellipse2.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/ellipse2.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_layout_background.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/layout_background.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_helpline.jpg.flat",
+        "source": "com.example.sos.app-main-34:/drawable/helpline.jpg"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/menu_language.xml.flat",
+        "source": "com.example.sos.app-main-34:/menu/language.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sos.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_background.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/background.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_plus_icon.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/plus_icon.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_guide.jpg.flat",
+        "source": "com.example.sos.app-main-34:/drawable/guide.jpg"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_guide_background.xml.flat",
+        "source": "com.example.sos.app-main-34:/drawable/guide_background.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_siren.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/siren.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_ellips.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/ellips.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_help_icon.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/help_icon.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_nfo.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/nfo.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.sos.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/layout_activity_register_number.xml.flat",
+        "source": "com.example.sos.app-main-34:/layout/activity_register_number.xml"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_contact.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/contact.png"
+    },
+    {
+        "merged": "com.example.sos.app-debug-32:/drawable_ellipse3.png.flat",
+        "source": "com.example.sos.app-main-34:/drawable/ellipse3.png"
+    }
+]

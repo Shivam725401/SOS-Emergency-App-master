@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_splash_screen.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/contact_recycler_view.xml",
+        "source": "com.example.sos.app-main-34:/layout/contact_recycler_view.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_soscall.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_soscall.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_home.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_show_contact.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_show_contact.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_register_number.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_register_number.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_guide.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_guide.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_instructions.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_instructions.xml"
+    },
+    {
+        "merged": "com.example.sos.app-mergeDebugResources-31:/layout/activity_edit_message.xml",
+        "source": "com.example.sos.app-main-34:/layout/activity_edit_message.xml"
+    }
+]

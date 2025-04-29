@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lang_en"
+        android:title="@string/english" />
+    <item
+        android:id="@+id/lang_hi"
+        android:title="@string/hindi" />
+    <item
+        android:id="@+id/lang_gu"
+        android:title="@string/gujarati" />
+
+</menu>

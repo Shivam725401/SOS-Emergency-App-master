@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_1_burn">1. जलना</string>
+    <string name="_2_bone_fracture">2. हड्डी टूटना</string>
+    <string name="_3_severe_external_bleeding">3. गंभीर बाहरी रक्तस्राव</string>
+    <string name="about_app">हमारे एसओएस एप्लिकेशन में आपका स्वागत है! यह उपयोगकर्ता गाइड आपको ऐप की विशेषताओं को समझने में मदद करेगा ताकि आप आपात स्थिति में इसे प्रभावी रूप से उपयोग कर सकें।</string>
+    <string name="add">1. आपातकालीन संपर्क नाम जोड़ें\n2. आपातकालीन संपर्क नंबर जोड़ें\n3. संपर्क सूची में सहेजें\n4. संपर्क सूची से संपर्क जोड़ें</string>
+    <string name="add_contacts_from_contact_book">संपर्क सूची से संपर्क जोड़ें</string>
+    <string name="add_emergency_contact">आपातकालीन संपर्क जोड़ें</string>
+    <string name="ambulance_108">एम्बुलेंस: 108</string>
+    <string name="app_name">एसओएस</string>
+    <string name="bleed">प्राथमिक उपचार\n\nए. व्यक्ति को लिटा दें। अगर अंग घायल है तो उसे ऊपर उठाएं।\nबी. जख्म पर सीधा दबाव डालें। अगर व्यक्ति नहीं कर पा रहा है तो आप करें।\nसी. अगर ज़ख्म में कोई वस्तु फंसी है तो उसे न निकालें। उसके चारों ओर दबाव डालें।\nडी. अगर पट्टी खून से भीग जाए तो उसे न हटाएं। ऊपर से दूसरी पट्टी लगाएं और बांध दें।</string>
+    <string name="bone">प्राथमिक उपचार\n\nए. व्यक्ति को स्थिर रखें। यदि खोपड़ी, रीढ़, पसलियों, पेल्विस या ऊपरी पैर में फ्रैक्चर है तो उसे हिलाएं नहीं।\nबी. रक्तस्राव को रोकें: साफ कपड़े से ज़ोर से दबाएं। अगर हड्डी बाहर है, तो ज़ख्म के किनारों पर दबाएं।\nसी. हाथ या पैर की हड्डी टूटी हो तो तकिए से सहारा दें, लेकिन ज्यादा हिलाएं नहीं।\nडी. अंग को सहारा देने के लिए स्प्लिंट लगाएं। लकड़ी का टुकड़ा या मोड़ा हुआ अखबार भी काम कर सकता है। हड्डी के ऊपर और नीचे दोनों तरफ स्थिरता दें।\nई. जब तक डॉक्टर न देखें तब तक व्यक्ति को कुछ खाने या पीने न दें, क्योंकि ऑपरेशन की ज़रूरत हो सकती है।</string>
+    <string name="burn">ए. जलन को ठंडा करें: जले हुए हिस्से को ठंडे (लेकिन बर्फ जैसे ठंडे नहीं) बहते पानी के नीचे रखें या ठंडी, गीली पट्टी लगाएं जब तक दर्द कम न हो जाए।\nबी. लोशन लगाएं: जलन पूरी तरह से ठंडी होने के बाद एलोवेरा या मॉइश्चराइज़र युक्त लोशन लगाएं। यह त्वचा को सूखने से बचाता है और राहत देता है।\nसी. जलन को बांधें: स्टरलाइज्ड गॉज पट्टी से हल्के से ढंकें (फ्लफी कॉटन नहीं)। ढीले से बांधें ताकि जलन पर दबाव न पड़े। इससे हवा से सुरक्षा मिलती है और दर्द में राहत मिलती है।\nडी. दर्द निवारक लें: ओवर-द-काउंटर दवाएं जैसे इबुप्रोफेन (Advil, Motrin), नेप्रोक्सेन सोडियम (Aleve), या एसिटामिनोफेन (Tylenol) दर्द में राहत देती हैं।</string>
+    <string name="call">कॉल करें</string>
+    <string name="contact">1. संपर्क हटाने के लिए लंबा दबाएं</string>
+    <string name="contact_list">संपर्क सूची</string>
+    <string name="disaster_managment_104">आपदा प्रबंधन: 104</string>
+    <string name="edit_message">संदेश संपादित करें</string>
+    <string name="emergency_guides">आपातकालीन मार्गदर्शिकाएं</string>
+    <string name="emergency_helpline">आपातकालीन हेल्पलाइन</string>
+    <string name="emergency_mode">आपातकालीन मोड</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="fire_managment_104">फायर प्रबंधन: 104</string>
+    <string name="first_aid_guide">प्राथमिक उपचार गाइड</string>
+    <string name="gas_leak_1906">गैस रिसाव: 1906</string>
+    <string name="gujarati">गुजराती</string>
+    <string name="help">2. स्वचालित कॉल करने के लिए कॉल पर क्लिक करें</string>
+    <string name="helpline">हेल्पलाइन</string>
+    <string name="hindi">हिंदी</string>
+    <string name="i_am_in_danger_i_need_help_please_urgently_reach_me_out_here_are_my_coordinates">मैं खतरे में हूँ, कृपया जल्दी मेरी सहायता करें।</string>
+    <string name="instruction">निर्देश</string>
+    <string name="message">1. संदेश यहाँ दिखाई देगा\n2. अपना संदेश दर्ज करें\n3. संदेश सहेजें\n4. संदेश हटाएं\nसंपर्क सूची</string>
+    <string name="name">नाम</string>
+    <string name="number">नंबर</string>
+    <string name="police_100">पुलिस: 100</string>
+    <string name="register_contact">संपर्क पंजीकृत करें</string>
+    <string name="save">सहेजें</string>
+    <string name="select_languge">भाषा चुनें</string>
+    <string name="sos_guides">एसओएस गाइड</string>
+    <string name="start">प्रारंभ</string>
+    <string name="stop">रोकें</string>
+    <string name="textview">टेक्स्टव्यू</string>
+    <string name="title_activity_directmap">प्रत्यक्ष मानचित्र</string>
+    <string name="title_activity_maps">मैप्स गतिविधि</string>
+</resources>
